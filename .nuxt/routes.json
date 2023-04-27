@@ -1,0 +1,58 @@
+[
+  {
+    "name": "bonus",
+    "path": "/bonus",
+    "component": "/home/huseyn/Masaüstü/SOFIXAR Technologies/GambleWebsite/pages/bonus/index.vue",
+    "chunkName": "pages/bonus/index",
+    "_name": "_46d4886e"
+  },
+  {
+    "name": "help",
+    "path": "/help",
+    "component": "/home/huseyn/Masaüstü/SOFIXAR Technologies/GambleWebsite/pages/help.vue",
+    "chunkName": "pages/help",
+    "_name": "_5f2fe7e5"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "/home/huseyn/Masaüstü/SOFIXAR Technologies/GambleWebsite/pages/profile/index.vue",
+    "chunkName": "pages/profile/index",
+    "_name": "_2b483f10"
+  },
+  {
+    "name": "wallet",
+    "path": "/wallet",
+    "component": "/home/huseyn/Masaüstü/SOFIXAR Technologies/GambleWebsite/pages/wallet/index.vue",
+    "chunkName": "pages/wallet/index",
+    "_name": "_39bbfa60"
+  },
+  {
+    "name": "games-crash",
+    "path": "/games/crash",
+    "component": "/home/huseyn/Masaüstü/SOFIXAR Technologies/GambleWebsite/pages/games/crash.vue",
+    "chunkName": "pages/games/crash",
+    "_name": "_3acdfe36"
+  },
+  {
+    "name": "user-confirmation-token",
+    "path": "/user/confirmation/:token?",
+    "component": "/home/huseyn/Masaüstü/SOFIXAR Technologies/GambleWebsite/pages/user/confirmation/_token.vue",
+    "chunkName": "pages/user/confirmation/_token",
+    "_name": "_72282af4"
+  },
+  {
+    "name": "user-social-provider",
+    "path": "/user/social/:provider?",
+    "component": "/home/huseyn/Masaüstü/SOFIXAR Technologies/GambleWebsite/pages/user/social/_provider.vue",
+    "chunkName": "pages/user/social/_provider",
+    "_name": "_54d3597e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/huseyn/Masaüstü/SOFIXAR Technologies/GambleWebsite/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0bf7055e"
+  }
+]

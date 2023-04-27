@@ -1,0 +1,53 @@
+{
+  "CardGame": {
+    "description": "Auto imported from components/card/card-game.vue"
+  },
+  "FreeWheel": {
+    "description": "Auto imported from components/free/free-wheel.vue"
+  },
+  "ModalAuth": {
+    "description": "Auto imported from components/modal/modal-auth.vue"
+  },
+  "ModalProfileFullname": {
+    "description": "Auto imported from components/modal/modal-profile-fullname.vue"
+  },
+  "ModalRegister": {
+    "description": "Auto imported from components/modal/modal-register.vue"
+  },
+  "ModalWithdraw": {
+    "description": "Auto imported from components/modal/modal-withdraw.vue"
+  },
+  "ModalSectionSocial": {
+    "description": "Auto imported from components/modal/section-social.vue"
+  },
+  "SectionAppFooter": {
+    "description": "Auto imported from components/section/app-footer.vue"
+  },
+  "SectionAppHeader": {
+    "description": "Auto imported from components/section/app-header.vue"
+  },
+  "SectionAppSidebar": {
+    "description": "Auto imported from components/section/app-sidebar.vue"
+  },
+  "UiAppLanguageSwitcher": {
+    "description": "Auto imported from components/ui/app-language-switcher.vue"
+  },
+  "UiAppNotification": {
+    "description": "Auto imported from components/ui/app-notification.vue"
+  },
+  "UiAppSpoiler": {
+    "description": "Auto imported from components/ui/app-spoiler.vue"
+  },
+  "UserBalance": {
+    "description": "Auto imported from components/user/user-balance.vue"
+  },
+  "ModalCrashInstruction": {
+    "description": "Auto imported from components/modal/crash/modal-crash-instruction.vue"
+  },
+  "GamesCrashChart": {
+    "description": "Auto imported from components/games/crash/crash-chart.vue"
+  },
+  "GamesCrashTable": {
+    "description": "Auto imported from components/games/crash/crash-table.vue"
+  }
+}
